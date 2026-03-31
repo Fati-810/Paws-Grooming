@@ -4,8 +4,6 @@ Paws Grooming is a professional pet grooming website designed to showcase groomi
 
 The site was originally built using **WordPress** and later exported as a **static website** to be hosted on **GitHub Pages**.
 
----
-
 ## Features :
 
 📱 **Responsive Design:** Fully responsive layout that adapts across desktop, tablet, and mobile devices.
@@ -27,8 +25,6 @@ The site was originally built using **WordPress** and later exported as a **stat
 🧭 **Navigation Menu:** User-friendly navigation for smooth browsing across all pages.
 
 ⚡ **Fast Static Performance:** Exported as a static website for faster loading and better performance.
-
----
 
 ## Technical Overview
 
@@ -58,13 +54,10 @@ Since the site is static:
 - No server-side processing is required  
 - Security risks are minimized  
 
----
-
 ## Preview:
 
 https://fati-810.github.io/Paws-Grooming/
 
----
 
 ## Contact
 
@@ -73,3 +66,7 @@ If you'd like to see more of my work, connect with me through my portfolio:
 **Developer:** Fatimah Ali  
 **Website:** https://fatimahdigitaledge.com  
 **GitHub:** https://github.com/Fati-810
+
+## 📜 License
+This project is for educational and portfolio purposes.
+
