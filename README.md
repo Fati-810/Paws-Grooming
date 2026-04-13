@@ -1,6 +1,6 @@
 # Paws-Grooming
 
-Paws Grooming is a professional pet grooming website designed to showcase grooming services, customer trust, and business information in a clean and welcoming layout. The website highlights essential services, testimonials, and blog content tailored for pet owners.
+Paws Grooming is a **professional** pet grooming website designed to **showcase** grooming services, customer trust, and business information in a clean and welcoming layout. The website **highlights** essential services, testimonials, and blog content tailored for pet owners.
 
 The site was originally built using **WordPress** and later exported as a **static website** to be hosted on **GitHub Pages**.
 
