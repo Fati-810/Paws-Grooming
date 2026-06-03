@@ -50,9 +50,9 @@ The static files are deployed using **GitHub Pages**, providing free and reliabl
 **Performance Advantage:**  
 Since the site is static:
 
-- Pages load faster  
-- No server-side processing is required  
-- Security risks are minimized  
+- Pages load faster.  
+- No server-side processing is required.  
+- Security risks are minimized.  
 
 ## Preview:
 
